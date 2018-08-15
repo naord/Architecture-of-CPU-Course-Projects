@@ -1,0 +1,1302 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\CPU2\project\DE1_CAMERA\DE1_CAMERA\simulation\modelsim
+vCCD_Capture
+IXJG30<GGcdTEG03Wn`l[m0
+VYhLEe45O14nSJCJi2VKY@1
+Z1 dC:\CPU2\project\DE1_CAMERA\DE1_CAMERA\simulation\modelsim
+w1209552226
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/CCD_Capture.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/CCD_Capture.v
+L0 43
+Z2 OV;L;10.1b;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+n@c@c@d_@capture
+Z4 !s92 -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V -O0
+!i10b 1
+!s100 I9Y`a_8KaW[YJS97;ej^S0
+!s85 0
+!s108 1528721352.415000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/CCD_Capture.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/CCD_Capture.v|
+!s101 -O0
+vcommand
+I2OnG2kFH]GZRUod0gR:9k2
+VngeM;;m?JRZROled?Okmb0
+R1
+w1208867828
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/command.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/command.v
+Z5 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_Params.h
+L0 43
+R2
+r1
+31
+R3
+Z6 !s92 -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port -O0
+!i10b 1
+!s100 1h>32ePenS^oF?[54SGW30
+!s85 0
+!s108 1528721353.180000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_Params.h|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/command.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/command.v|
+!s101 -O0
+Econtrol
+Z7 w1527534676
+Z8 DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+Z9 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z10 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z11 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+R1
+Z12 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/CONTROL.VHD
+Z13 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/CONTROL.VHD
+l0
+L7
+VgNCkacGX3kg?kL[9T;22N3
+Z14 OV;C;10.1b;51
+31
+Z15 !s108 1528721356.070000
+Z16 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/CONTROL.VHD|
+Z17 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/CONTROL.VHD|
+Z18 o-93 -work work -O0
+Z19 tExplicit 1
+!s100 8kJD:RT`@D3jFa_UZL^9f3
+!i10b 1
+Abehavior
+R8
+R9
+R10
+R11
+DEx4 work 7 control 0 22 gNCkacGX3kg?kL[9T;22N3
+l27
+L23
+Voa40ok8WGHFZPOioL6gl12
+R14
+31
+R15
+R16
+R17
+R18
+R19
+!s100 4_5n]PGXRZHG:3L^R5]Zk3
+!i10b 1
+vcontrol_interface
+IVQEz_>lX41Kc;ADJH:@Uf3
+V97ezDz43mhUP=;oc8i_g:1
+R1
+w1208867860
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/control_interface.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/control_interface.v
+R5
+L0 43
+R2
+r1
+31
+R3
+R6
+!i10b 1
+!s100 ]Jk]IdiaS=`bI`o_BA8^C2
+!s85 0
+!s108 1528721353.274000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_Params.h|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/control_interface.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/control_interface.v|
+!s101 -O0
+vDE1_D5M
+IEljoEPol:E2Qjmn^QmdbQ2
+VH36D3<1JOdJLX]KQ2XRB`2
+R1
+w1528719665
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/DE1_D5M.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/DE1_D5M.v
+L0 43
+R2
+r1
+31
+R3
+n@d@e1_@d5@m
+!i10b 1
+!s100 @V3m_1d3lmY?k9M^7=Z^T0
+!s85 0
+!s108 1528721353.102000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/DE1_D5M.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/DE1_D5M.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA -O0
+Edmemory
+Z20 w1527237511
+Z21 DPx9 altera_mf 20 altera_mf_components 0 22 ^IX6G>H7:I6bRMgMQQ0UY1
+R8
+R9
+R10
+R11
+R1
+Z22 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/DMEMORY.VHD
+Z23 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/DMEMORY.VHD
+l0
+L11
+VeNX=h:z]n80EJ<YGUz<Q^1
+R14
+31
+Z24 !s108 1528721355.961000
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/DMEMORY.VHD|
+Z26 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/DMEMORY.VHD|
+R18
+R19
+!s100 H7Q9]l41H9UDeb2QZnR562
+!i10b 1
+Abehavior
+R21
+R8
+R9
+R10
+R11
+DEx4 work 7 dmemory 0 22 eNX=h:z]n80EJ<YGUz<Q^1
+l22
+L20
+V:cT[REl?`:TLo<zeU32YW2
+R14
+31
+R24
+R25
+R26
+R18
+R19
+!s100 OWBOTI[77MXQgN>ePRCM00
+!i10b 1
+Eexecute
+Z27 w1527694184
+R8
+R9
+R10
+R11
+R1
+Z28 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/EXECUTE.VHD
+Z29 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/EXECUTE.VHD
+l0
+L8
+VkLZ4fnW8h8CP[hW^fK`G?0
+R14
+31
+Z30 !s108 1528721355.836000
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/EXECUTE.VHD|
+Z32 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/EXECUTE.VHD|
+R18
+R19
+!s100 ^^Y8jenRIOL=BXBQA90BA0
+!i10b 1
+Abehavior
+R8
+R9
+R10
+R11
+DEx4 work 7 execute 0 22 kLZ4fnW8h8CP[hW^fK`G?0
+l51
+L31
+VHfQX]8@3Ez;1f@LIKM5]i3
+R14
+31
+R30
+R31
+R32
+R18
+R19
+!s100 LhhFQAYgiH=m`74=zW>LX3
+!i10b 1
+Efloatingpointentity
+Z33 w1527408496
+Z34 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+R9
+Z35 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R10
+R11
+R1
+Z36 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FloatingPointEntity.vhd
+Z37 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FloatingPointEntity.vhd
+l0
+L6
+V63>2LODVR^70@lfh^^6l:2
+R14
+31
+Z38 !s108 1528721355.727000
+Z39 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FloatingPointEntity.vhd|
+Z40 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FloatingPointEntity.vhd|
+R18
+R19
+!s100 =[3;RfzF8dTS2X>L2<eaM2
+!i10b 1
+Astructuralfloatingpoint
+R34
+R9
+R35
+R10
+R11
+DEx4 work 19 floatingpointentity 0 22 63>2LODVR^70@lfh^^6l:2
+l40
+L15
+V;?M7C<<94SXNBQCc5;6gf3
+R14
+31
+R38
+R39
+R40
+R18
+R19
+!s100 1V3Xo856EJO1]Kmf4IlBO1
+!i10b 1
+Efp_adder
+Z41 w1527692512
+R34
+R9
+R35
+R10
+R11
+R1
+Z42 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_adder.vhd
+Z43 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_adder.vhd
+l0
+L6
+VT^X[ScUD`D9Tljjeg]9ZQ3
+R14
+31
+Z44 !s108 1528721355.617000
+Z45 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_adder.vhd|
+Z46 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_adder.vhd|
+R18
+R19
+!s100 hnBc@O_:a`<d8b0mc^^`C0
+!i10b 1
+Aadder
+R34
+R9
+R35
+R10
+R11
+DEx4 work 8 fp_adder 0 22 T^X[ScUD`D9Tljjeg]9ZQ3
+l105
+L14
+Vn]kKM4ZAM=DXhI6^jA_n:3
+R14
+31
+R44
+R45
+R46
+R18
+R19
+!s100 0K=_cQ[6DlQf68=b9e1g]3
+!i10b 1
+Efp_alignment
+Z47 w1525861983
+R34
+R9
+R35
+R10
+R11
+R1
+Z48 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_alignment.vhd
+Z49 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_alignment.vhd
+l0
+L6
+V^`;o5gzOCcMoB]XaomifL3
+R14
+31
+Z50 !s108 1528721355.492000
+Z51 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_alignment.vhd|
+Z52 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_alignment.vhd|
+R18
+R19
+!s100 `QW>XkWaoQaePPBl=k7z20
+!i10b 1
+Aalignment
+R34
+R9
+R35
+R10
+R11
+DEx4 work 12 fp_alignment 0 22 ^`;o5gzOCcMoB]XaomifL3
+l17
+L14
+VdMmL7nPPe47M5_l_e24ED1
+R14
+31
+R50
+R51
+R52
+R18
+R19
+!s100 7G?z`Z28YDCaAiFf]:9>L0
+!i10b 1
+Efp_expselect
+Z53 w1525587669
+R34
+R9
+R35
+R10
+R11
+R1
+Z54 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_expSelect.vhd
+Z55 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_expSelect.vhd
+l0
+L6
+VHG<KB[V1BG1=A4C;B5`g@1
+R14
+31
+Z56 !s108 1528721355.383000
+Z57 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_expSelect.vhd|
+Z58 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_expSelect.vhd|
+R18
+R19
+!s100 CUk:IT7c?O?kZCWUzj`k73
+!i10b 1
+Aexpselect
+R34
+R9
+R35
+R10
+R11
+DEx4 work 12 fp_expselect 0 22 HG<KB[V1BG1=A4C;B5`g@1
+l17
+L13
+VY7m`=6EO6Nl0JGSOnD95]2
+R14
+31
+R56
+R57
+R58
+R18
+R19
+!s100 eUk<NB8[Iz0HR22=afSRB3
+!i10b 1
+Efp_expsubtractor
+Z59 w1527689752
+R34
+R9
+R35
+R10
+R11
+R1
+Z60 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_expSubtractor.vhd
+Z61 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_expSubtractor.vhd
+l0
+L6
+VRc6WEhbZg=nH>Gh]HUm?12
+R14
+31
+Z62 !s108 1528721355.274000
+Z63 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_expSubtractor.vhd|
+Z64 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_expSubtractor.vhd|
+R18
+R19
+!s100 Tlm<]f4WgkDoD9^]X;lOi0
+!i10b 1
+Aex_sub
+R34
+R9
+R35
+R10
+R11
+DEx4 work 16 fp_expsubtractor 0 22 Rc6WEhbZg=nH>Gh]HUm?12
+l18
+L14
+V^cgNjl[aliA4Z_@XoN3Fl3
+R14
+31
+R62
+R63
+R64
+R18
+R19
+!s100 ]Gj?GB4d>PZV^=[N8WzXl1
+!i10b 1
+Efp_fractionadder
+Z65 w1525964917
+R34
+R9
+R35
+R10
+R11
+R1
+Z66 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_fractionAdder.vhd
+Z67 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_fractionAdder.vhd
+l0
+L6
+VSjh?X;T1hUVHm8loL9De_0
+R14
+31
+Z68 !s108 1528721355.164000
+Z69 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_fractionAdder.vhd|
+Z70 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_fractionAdder.vhd|
+R18
+R19
+!s100 de519>DAR`33S6lBAz:bd3
+!i10b 1
+Afractionadder
+R34
+R9
+R35
+R10
+R11
+DEx4 work 16 fp_fractionadder 0 22 Sjh?X;T1hUVHm8loL9De_0
+l20
+L17
+VGF8]g:7SXY^?660:<SVQd2
+R14
+31
+R68
+R69
+R70
+R18
+R19
+!s100 3F9nTQKTfJXSE]KJ@2Z9K0
+!i10b 1
+Efp_leadzeroscounter
+Z71 w1526115143
+R34
+R9
+R35
+R10
+R11
+R1
+Z72 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_leadZerosCounter.vhd
+Z73 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_leadZerosCounter.vhd
+l0
+L6
+V?mhFFEgCUN048K>d]l@WI2
+R14
+31
+Z74 !s108 1528721355.039000
+Z75 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_leadZerosCounter.vhd|
+Z76 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_leadZerosCounter.vhd|
+R18
+R19
+!s100 6faSKXRE=V06oEgoDM?0_0
+!i10b 1
+Aleadzeroscounter
+R34
+R9
+R35
+R10
+R11
+DEx4 work 19 fp_leadzeroscounter 0 22 ?mhFFEgCUN048K>d]l@WI2
+l17
+L13
+VF_@OYdFlB@BIVW]2a0S0G0
+R14
+31
+R74
+R75
+R76
+R18
+R19
+!s100 mTOn2W6:[[oXKC]734MiE3
+!i10b 1
+Efp_multiply
+Z77 w1525876890
+R34
+R9
+R35
+R10
+R11
+R1
+Z78 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_multiply.vhd
+Z79 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_multiply.vhd
+l0
+L6
+VfoA19g_`hYKMf:jBea1cc1
+R14
+31
+Z80 !s108 1528721354.930000
+Z81 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_multiply.vhd|
+Z82 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_multiply.vhd|
+R18
+R19
+!s100 6;oA;oIdElef8@Bk[2:aA1
+!i10b 1
+Amul_func
+R34
+R9
+R35
+R10
+R11
+DEx4 work 11 fp_multiply 0 22 foA19g_`hYKMf:jBea1cc1
+l17
+L13
+VQB50F?0=WGdYg3Y5LcC^P3
+R14
+31
+R80
+R81
+R82
+R18
+R19
+!s100 o[OM<UTAP1JzICjS32L0]1
+!i10b 1
+Efp_normalize
+Z83 w1525965101
+R34
+R9
+R35
+R10
+R11
+R1
+Z84 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_normalize.vhd
+Z85 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_normalize.vhd
+l0
+L6
+VISL3EZYL8IZd9U;7T4nWH1
+R14
+31
+Z86 !s108 1528721354.821000
+Z87 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_normalize.vhd|
+Z88 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_normalize.vhd|
+R18
+R19
+!s100 fdnaG?b6M4bT>h@RA=KXj2
+!i10b 1
+Anormalize
+R34
+R9
+R35
+R10
+R11
+DEx4 work 12 fp_normalize 0 22 ISL3EZYL8IZd9U;7T4nWH1
+l17
+L13
+Vg>NeaU3>khjSmA:;VHS<P1
+R14
+31
+R86
+R87
+R88
+R18
+R19
+!s100 Z<<G9HGD;T]XA<b5CJ[zJ3
+!i10b 1
+Efp_signcomputation
+Z89 w1528653953
+R34
+R9
+R35
+R10
+R11
+R1
+Z90 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_signComputation.vhd
+Z91 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_signComputation.vhd
+l0
+L6
+V;5_]1e_cgY2g[bzVA>jnj3
+R14
+31
+Z92 !s108 1528721354.711000
+Z93 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_signComputation.vhd|
+Z94 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_signComputation.vhd|
+R18
+R19
+!s100 ZfM<>Oo_1Pi`;lB2XN63b0
+!i10b 1
+Asigncomputation
+R34
+R9
+R35
+R10
+R11
+DEx4 work 18 fp_signcomputation 0 22 ;5_]1e_cgY2g[bzVA>jnj3
+l23
+L19
+V0[n_nbIWOz:UCk0<ee44H0
+R14
+31
+R92
+R93
+R94
+R18
+R19
+!s100 O0<[T_9oemNbXW;ma^IDY1
+!i10b 1
+Efp_subtructbios
+Z95 w1525962441
+R34
+R9
+R35
+R10
+R11
+R1
+Z96 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_subtractBios.vhd
+Z97 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_subtractBios.vhd
+l0
+L6
+VXa0TPQl7L9HQ?Qba75POO2
+R14
+31
+Z98 !s108 1528721354.602000
+Z99 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_subtractBios.vhd|
+Z100 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_subtractBios.vhd|
+R18
+R19
+!s100 AQNN]:NVG?IMI6iL=ZPhY1
+!i10b 1
+Asubtructbios
+R34
+R9
+R35
+R10
+R11
+DEx4 work 15 fp_subtructbios 0 22 Xa0TPQl7L9HQ?Qba75POO2
+l17
+L13
+VVf<79db[RmnQdPLZXlWjG0
+R14
+31
+R98
+R99
+R100
+R18
+R19
+!s100 dQ^_:F3J4d6N5^dgNElcN3
+!i10b 1
+Efp_swap
+Z101 w1527688696
+R34
+R9
+R35
+R10
+R11
+R1
+Z102 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_swap.vhd
+Z103 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_swap.vhd
+l0
+L6
+V@nn0SkK[:nzF_@^8?lZen0
+R14
+31
+Z104 !s108 1528721354.477000
+Z105 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_swap.vhd|
+Z106 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_swap.vhd|
+R18
+R19
+!s100 _Q9VRHG]mYPUI7GX@PF2N2
+!i10b 1
+Aswap
+R34
+R9
+R35
+R10
+R11
+DEx4 work 7 fp_swap 0 22 @nn0SkK[:nzF_@^8?lZen0
+l19
+L15
+V<b0YMa>mio0NTi9`n7oF50
+R14
+31
+R104
+R105
+R106
+R18
+R19
+!s100 Ud>`dMKj_cM8dF?=DJbUJ1
+!i10b 1
+Egs_histogram
+w1528720405
+R35
+R9
+R8
+R34
+R10
+R11
+R1
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd
+l0
+L8
+VU5iB;b8nVBKo>oEM35ekP1
+!s100 mL95gFN9PzEPQc0C5jIge3
+R14
+31
+!i10b 1
+!s108 1528721356.414000
+!s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd|
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd|
+R18
+R19
+vI2C_CCD_Config
+I83=Oi30V:GB@=2QN[3?ef0
+VCT8bA9[>GFK@`6L>^CHKZ0
+R1
+w1209896302
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/I2C_CCD_Config.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/I2C_CCD_Config.v
+L0 43
+R2
+r1
+31
+R3
+R4
+n@i2@c_@c@c@d_@config
+!i10b 1
+!s100 YkbE1;[6]:LC32TCz[noR2
+!s85 0
+!s108 1528721352.509000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/I2C_CCD_Config.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/I2C_CCD_Config.v|
+!s101 -O0
+vI2C_Controller
+I]dUUk5CQ2HG7zQj;Ao`kb1
+V_LlHR3mIQ>ciE_<Y8GO8c2
+R1
+w1209558664
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/I2C_Controller.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/I2C_Controller.v
+L0 42
+R2
+r1
+31
+R3
+R4
+n@i2@c_@controller
+!i10b 1
+!s100 FNdl[e9Mk[efK8`a9FP`:3
+!s85 0
+!s108 1528721352.587000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/I2C_Controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/I2C_Controller.v|
+!s101 -O0
+Eidecode
+Z107 w1528034788
+R35
+R9
+R10
+R11
+R1
+Z108 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/IDECODE.VHD
+Z109 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/IDECODE.VHD
+l0
+L7
+VWCLMHCdIb5<YMZm]DD6I>1
+R14
+31
+Z110 !s108 1528721354.383000
+Z111 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/IDECODE.VHD|
+Z112 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/IDECODE.VHD|
+R18
+R19
+!s100 Foha?nedh[a85=laaSh`f3
+!i10b 1
+Abehavior
+R35
+R9
+R10
+R11
+DEx4 work 7 idecode 0 22 WCLMHCdIb5<YMZm]DD6I>1
+l55
+L42
+VnVTETF;Z7T2XJiD5KClSH3
+R14
+31
+R110
+R111
+R112
+R18
+R19
+!s100 a]nozAMJm[WlLCMQoFn8;1
+!i10b 1
+Eifetch
+Z113 w1527694375
+R21
+R35
+R9
+R10
+R11
+R1
+Z114 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/IFETCH.VHD
+Z115 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/IFETCH.VHD
+l0
+L10
+Vkl81LmWTU]BKIhBWQ7HfQ2
+R14
+31
+Z116 !s108 1528721354.243000
+Z117 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/IFETCH.VHD|
+Z118 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/IFETCH.VHD|
+R18
+R19
+!s100 n0?hzm[i=LDb4fMoJefDX3
+!i10b 1
+Abehavior
+R21
+R35
+R9
+R10
+R11
+DEx4 work 6 ifetch 0 22 kl81LmWTU]BKIhBWQ7HfQ2
+l29
+L26
+V4UOPTMI_XMPgWZ8F8Bdb82
+R14
+31
+R116
+R117
+R118
+R18
+R19
+!s100 FHe?19JCm_GA=DJl8dI`R1
+!i10b 1
+vLine_Buffer
+IM=7nmh]dkbA3YFde7aKh92
+VcSHZ7Gjd<5CD_h]VdiLY91
+R1
+w1209542514
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Line_Buffer.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Line_Buffer.v
+L0 39
+R2
+r1
+31
+R3
+R4
+n@line_@buffer
+!i10b 1
+!s100 a<gcDA[6>YK]`;03A3U<21
+!s85 0
+!s108 1528721352.665000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Line_Buffer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Line_Buffer.v|
+!s101 -O0
+Emips
+Z119 w1528653617
+R9
+R10
+R11
+R1
+Z120 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/MIPS.vhd
+Z121 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/MIPS.vhd
+l0
+L6
+V9hd0BD23FNC]S;kAfYRa`3
+R14
+31
+Z122 !s108 1528721354.133000
+Z123 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/MIPS.vhd|
+Z124 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/MIPS.vhd|
+R18
+R19
+!s100 3MVlEQcckb3]RU`UAi06i2
+!i10b 1
+Astructure
+R9
+R10
+R11
+DEx4 work 4 mips 0 22 9hd0BD23FNC]S;kAfYRa`3
+l293
+L29
+Vc@dUjlUHoM:>e0C2kRkmO2
+R14
+31
+R122
+R123
+R124
+R18
+R19
+!s100 [Wf^gkUS]4_YmB6:7:j3c0
+!i10b 1
+Eraw2rgb
+Z125 w1528718242
+R9
+R8
+R34
+R10
+R11
+R1
+Z126 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/RAW2RGB.vhd
+Z127 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/RAW2RGB.vhd
+l0
+L11
+VUcKQ0A81gnjE37C1nHWzc1
+R14
+31
+Z128 !s108 1528721356.180000
+Z129 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/RAW2RGB.vhd|
+Z130 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/RAW2RGB.vhd|
+R18
+R19
+!s100 PgKfPZ=YhHNOScm2o9PNS0
+!i10b 1
+Abehv
+R9
+R8
+R34
+R10
+R11
+DEx4 work 7 raw2rgb 0 22 UcKQ0A81gnjE37C1nHWzc1
+l40
+L22
+VYS3K74EfU^0Y=M:H46G_`0
+R14
+31
+R128
+R129
+R130
+R18
+R19
+!s100 @_V_6a`<DzaDei7MZ3h;J3
+!i10b 1
+vReset_Delay
+IX9@Wd0Jdz2fgn8gVeE<W[2
+V[[L^aIe`A?D?:zaVcl2:W1
+R1
+w1209537758
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Reset_Delay.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Reset_Delay.v
+L0 43
+R2
+r1
+31
+R3
+R4
+n@reset_@delay
+!i10b 1
+!s100 ic0@2WiHWgFS0>;A_bO6o3
+!s85 0
+!s108 1528721352.743000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Reset_Delay.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Reset_Delay.v|
+!s101 -O0
+vsdr_data_path
+Ih26Z<=d6o0b5M9aCIfBf?2
+V@=K<[Nf=O0F@]]>;;4gl23
+R1
+w1208867884
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/sdr_data_path.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/sdr_data_path.v
+R5
+L0 43
+R2
+r1
+31
+R3
+R6
+!i10b 1
+!s100 <@ZCXSa1L:Q>RX^L:739P0
+!s85 0
+!s108 1528721353.352000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_Params.h|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/sdr_data_path.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/sdr_data_path.v|
+!s101 -O0
+vSdram_Control_4Port
+Ifa6WfU;JdF9[7d3V5Oeeb0
+V>6zE:kU0:neMZUcE@?34K3
+R1
+w1209559968
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_Control_4Port.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_Control_4Port.v
+R5
+L0 43
+R2
+r1
+31
+R3
+R6
+n@sdram_@control_4@port
+!i10b 1
+!s100 E2<_K?lo[WMEI1lf<MTJ23
+!s85 0
+!s108 1528721353.430000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_Params.h|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_Control_4Port.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_Control_4Port.v|
+!s101 -O0
+vSdram_FIFO
+IQcVed[c_c8VTEWUhL_@ZC0
+V:^Q;Ue0Km6jTI^^UNVIj73
+R1
+w1136484806
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_FIFO.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_FIFO.v
+L0 36
+R2
+r1
+31
+R3
+n@sdram_@f@i@f@o
+R6
+!i10b 1
+!s100 OLKW0BjQc6G7fa@3FXhTV1
+!s85 0
+!s108 1528721352.274000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_FIFO.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_FIFO.v|
+!s101 -O0
+vsdram_pll
+ILKO:dWoRo>:;fL7ZcGU0[2
+VM=1Szm]CJ3fa@_F_=OK2g0
+R1
+w1209535380
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/sdram_pll.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/sdram_pll.v
+L0 39
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 Kj;RlYDc:l>i0c:[l]R513
+!s85 0
+!s108 1528721352.837000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/sdram_pll.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/sdram_pll.v|
+!s101 -O0
+vSEG7_LUT
+IFm9CAjCB5BiClKn>JT;kX1
+VUbYATRA9<`nKUR_ZQPcUN2
+R1
+w1209397650
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/SEG7_LUT.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/SEG7_LUT.v
+L0 43
+R2
+r1
+31
+R3
+R4
+n@s@e@g7_@l@u@t
+!i10b 1
+!s100 Zdez_iISCGbkTPOe_n=Eo0
+!s85 0
+!s108 1528721352.931000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/SEG7_LUT.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/SEG7_LUT.v|
+!s101 -O0
+vSEG7_LUT_8
+IDHTK1d4264_9z[<Y@_kJ;2
+VRbm<Wf<JaMc<TG`;i66Z:2
+R1
+w1209397634
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/SEG7_LUT_8.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/SEG7_LUT_8.v
+L0 43
+R2
+r1
+31
+R3
+R4
+n@s@e@g7_@l@u@t_8
+!i10b 1
+!s100 V5]KGI900FD[DM9ck[;Ad3
+!s85 0
+!s108 1528721353.024000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/SEG7_LUT_8.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/SEG7_LUT_8.v|
+!s101 -O0
+Eseparator_1_ifetch_idecode
+Z131 w1527694416
+R9
+R10
+R11
+R1
+Z132 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_1_IFetch_Idecode.vhd
+Z133 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_1_IFetch_Idecode.vhd
+l0
+L5
+V>kU:A_MWcU[S0R]4AP]Iz3
+R14
+31
+Z134 !s108 1528721354.024000
+Z135 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_1_IFetch_Idecode.vhd|
+Z136 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_1_IFetch_Idecode.vhd|
+R18
+R19
+!s100 `NhWLDZ:Mc79ohDTRh32n3
+!i10b 1
+Astructure
+R9
+R10
+R11
+DEx4 work 26 separator_1_ifetch_idecode 0 22 >kU:A_MWcU[S0R]4AP]Iz3
+l21
+L19
+VV7=gKkmW@C1ANB:T^R9bI2
+R14
+31
+R134
+R135
+R136
+R18
+R19
+!s100 Kk<Y6NQ30;B9K3b;FD[;n0
+!i10b 1
+Eseparator_2_idecod_execute
+Z137 w1527694596
+R9
+R10
+R11
+R1
+Z138 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_2_IDecod_Execute.vhd
+Z139 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_2_IDecod_Execute.vhd
+l0
+L5
+Vm[MHd5]]FzTb49aOz^NYO1
+R14
+31
+Z140 !s108 1528721353.930000
+Z141 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_2_IDecod_Execute.vhd|
+Z142 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_2_IDecod_Execute.vhd|
+R18
+R19
+!s100 P[CWdjO5g6:lGULiEZoki0
+!i10b 1
+Astructure
+R9
+R10
+R11
+DEx4 work 26 separator_2_idecod_execute 0 22 m[MHd5]]FzTb49aOz^NYO1
+l43
+L41
+VnHXAY2o4;^kS]Q?lTS:4D2
+R14
+31
+R140
+R141
+R142
+R18
+R19
+!s100 GfjIozWl<ffWf>Qmgad^52
+!i10b 1
+Eseparator_3_execute_dememory
+Z143 w1527241172
+R9
+R10
+R11
+R1
+Z144 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_3_Execute_Dememory.vhd
+Z145 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_3_Execute_Dememory.vhd
+l0
+L5
+VZ_OFIc[03F_K1?I<@IUCf3
+R14
+31
+Z146 !s108 1528721353.821000
+Z147 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_3_Execute_Dememory.vhd|
+Z148 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_3_Execute_Dememory.vhd|
+R18
+R19
+!s100 GmX7nc6mLPhgA;bAH[]@A3
+!i10b 1
+Astructure
+R9
+R10
+R11
+DEx4 work 28 separator_3_execute_dememory 0 22 Z_OFIc[03F_K1?I<@IUCf3
+l33
+L31
+VP3QFR4eSjE[27zheZzA^23
+R14
+31
+R146
+R147
+R148
+R18
+R19
+!s100 6<bC7nmQ6LlPaRXznheEX3
+!i10b 1
+Eseparator_4_dememory_writeback
+Z149 w1527013418
+R9
+R10
+R11
+R1
+Z150 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_4_Dememory_WriteBack.vhd
+Z151 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_4_Dememory_WriteBack.vhd
+l0
+L5
+VzkCOh1O1Nl^gJB58iKMh<2
+R14
+31
+Z152 !s108 1528721353.665000
+Z153 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_4_Dememory_WriteBack.vhd|
+Z154 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_4_Dememory_WriteBack.vhd|
+R18
+R19
+!s100 GodYQ^edC_<D0>Te1foNb2
+!i10b 1
+Astructure
+R9
+R10
+R11
+DEx4 work 30 separator_4_dememory_writeback 0 22 zkCOh1O1Nl^gJB58iKMh<2
+l22
+L20
+VW=ZF0aV`Zg_DN^a6]ingV0
+R14
+31
+R152
+R153
+R154
+R18
+R19
+!s100 KZ^Z@o]EBHQ>Mk<GIl13V0
+!i10b 1
+Etop_mux
+Z155 w1528720233
+R9
+R8
+R34
+R10
+R11
+R1
+Z156 8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/top_mux.vhd
+Z157 FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/top_mux.vhd
+l0
+L8
+VUEWfAQbgnU6YNZ<D_4AGP0
+R14
+31
+Z158 !s108 1528721356.305000
+Z159 !s90 -reportprogress|300|-93|-work|work|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/top_mux.vhd|
+Z160 !s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/top_mux.vhd|
+R18
+R19
+!s100 ZG=@NAnfj8aaUcdjFLfKn1
+!i10b 1
+Abehv
+R9
+R8
+R34
+R10
+R11
+DEx4 work 7 top_mux 0 22 UEWfAQbgnU6YNZ<D_4AGP0
+l60
+L18
+V^4CJ[_PUMnV;ioMJ3gN8c1
+R14
+31
+R158
+R159
+R160
+R18
+R19
+!s100 JDi6CHJUIoB9GQ[G8iz6G3
+!i10b 1
+vVGA_Controller
+IK5U5a0odSZ4?Sb0SiD[WF1
+VSmEzL7`?DKZ@_6`m<YnFT2
+R1
+w1209560520
+8C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/VGA_Controller.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/VGA_Controller.v
+FC:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/VGA_Param.h
+L0 1
+R2
+r1
+31
+R3
+R4
+n@v@g@a_@controller
+!i10b 1
+!s100 _JOQ4XjaWD8U:dEUY5`BI0
+!s85 0
+!s108 1528721353.509000
+!s107 C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/VGA_Param.h|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/VGA_Controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V|C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/VGA_Controller.v|
+!s101 -O0
