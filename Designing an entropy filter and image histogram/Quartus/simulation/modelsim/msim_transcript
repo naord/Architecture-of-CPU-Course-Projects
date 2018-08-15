@@ -1,0 +1,361 @@
+# Reading C:/altera/12.1/modelsim_ase/tcl/vsim/pref.tcl 
+# do DE1_D5M_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying c:\altera\12.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied c:\altera\12.1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_FIFO.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module Sdram_FIFO
+# 
+# Top level modules:
+# 	Sdram_FIFO
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/CCD_Capture.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module CCD_Capture
+# 
+# Top level modules:
+# 	CCD_Capture
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/I2C_CCD_Config.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module I2C_CCD_Config
+# 
+# Top level modules:
+# 	I2C_CCD_Config
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/I2C_Controller.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module I2C_Controller
+# 
+# Top level modules:
+# 	I2C_Controller
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Line_Buffer.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module Line_Buffer
+# 
+# Top level modules:
+# 	Line_Buffer
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Reset_Delay.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module Reset_Delay
+# 
+# Top level modules:
+# 	Reset_Delay
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/sdram_pll.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module sdram_pll
+# 
+# Top level modules:
+# 	sdram_pll
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/SEG7_LUT.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module SEG7_LUT
+# 
+# Top level modules:
+# 	SEG7_LUT
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/SEG7_LUT_8.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module SEG7_LUT_8
+# 
+# Top level modules:
+# 	SEG7_LUT_8
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/DE1_D5M.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module DE1_D5M
+# 
+# Top level modules:
+# 	DE1_D5M
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/command.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module command
+# 
+# Top level modules:
+# 	command
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/control_interface.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module control_interface
+# 
+# Top level modules:
+# 	control_interface
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/sdr_data_path.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module sdr_data_path
+# 
+# Top level modules:
+# 	sdr_data_path
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/Sdram_Control_4Port/Sdram_Control_4Port.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module Sdram_Control_4Port
+# 
+# Top level modules:
+# 	Sdram_Control_4Port
+# vlog -vlog01compat -work work +incdir+C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/VGA_Controller.v}
+# Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+# -- Compiling module VGA_Controller
+# 
+# Top level modules:
+# 	VGA_Controller
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_4_Dememory_WriteBack.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity Separator_4_Dememory_WriteBack
+# -- Compiling architecture structure of Separator_4_Dememory_WriteBack
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_3_Execute_Dememory.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity Separator_3_Execute_Dememory
+# -- Compiling architecture structure of Separator_3_Execute_Dememory
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_2_IDecod_Execute.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity Separator_2_IDecod_Execute
+# -- Compiling architecture structure of Separator_2_IDecod_Execute
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/Separator_1_IFetch_Idecode.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity Separator_1_IFetch_Idecode
+# -- Compiling architecture structure of Separator_1_IFetch_Idecode
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/MIPS.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity MIPS
+# -- Compiling architecture structure of MIPS
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/IFETCH.VHD}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package altera_mf_components
+# -- Compiling entity Ifetch
+# -- Compiling architecture behavior of Ifetch
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/IDECODE.VHD}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity Idecode
+# -- Compiling architecture behavior of Idecode
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_swap.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_swap
+# -- Compiling architecture swap of FP_swap
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_subtractBios.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_subtructBios
+# -- Compiling architecture subtructBios of FP_subtructBios
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_signComputation.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_signComputation
+# -- Compiling architecture signComputation of FP_signComputation
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_normalize.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_normalize
+# -- Compiling architecture normalize of FP_normalize
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_multiply.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_multiply
+# -- Compiling architecture Mul_func of FP_multiply
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_leadZerosCounter.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_leadZerosCounter
+# -- Compiling architecture leadZerosCounter of FP_leadZerosCounter
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_fractionAdder.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_fractionAdder
+# -- Compiling architecture fractionAdder of FP_fractionAdder
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_expSubtractor.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_expSubtractor
+# -- Compiling architecture ex_sub of FP_expSubtractor
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_expSelect.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_expSelect
+# -- Compiling architecture expSelect of FP_expSelect
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_alignment.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_alignment
+# -- Compiling architecture alignment of FP_alignment
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FP_adder.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FP_adder
+# -- Compiling architecture adder of FP_adder
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/FloatingPointEntity.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading package NUMERIC_STD
+# -- Compiling entity FloatingPointEntity
+# -- Compiling architecture StructuralFloatingPoint of FloatingPointEntity
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/EXECUTE.VHD}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity Execute
+# -- Compiling architecture behavior of Execute
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/DMEMORY.VHD}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package altera_mf_components
+# -- Compiling entity dmemory
+# -- Compiling architecture behavior of dmemory
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/CONTROL.VHD}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity control
+# -- Compiling architecture behavior of control
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/RAW2RGB.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity RAW2RGB
+# -- Compiling architecture behv of RAW2RGB
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/top_mux.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Compiling entity top_mux
+# -- Compiling architecture behv of top_mux
+# vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1b Compiler 2012.04 Apr 27 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_SIGNED
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity GS_histogram
+# -- Compiling architecture histogramBehavioral of GS_histogram
+# ** Error: C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd(46): Operator "+" is ambiguous.
+#    Feasible operators are:
+#       (explicit) STD_LOGIC_SIGNED."+"[STD_LOGIC_VECTOR, INTEGER return STD_LOGIC_VECTOR] at $MODEL_TECH/../vhdl_src/synopsys/mti_std_logic_signed.vhd(42)
+#       (explicit) STD_LOGIC_UNSIGNED."+"[STD_LOGIC_VECTOR, INTEGER return STD_LOGIC_VECTOR] at $MODEL_TECH/../vhdl_src/synopsys/mti_std_logic_unsigned.vhd(43)
+# ** Error: C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd(46): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+# ** Error: C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd(48): Operator "+" is ambiguous.
+#    Feasible operators are:
+#       (explicit) STD_LOGIC_SIGNED."+"[STD_LOGIC_VECTOR, INTEGER return STD_LOGIC_VECTOR] at $MODEL_TECH/../vhdl_src/synopsys/mti_std_logic_signed.vhd(42)
+#       (explicit) STD_LOGIC_UNSIGNED."+"[STD_LOGIC_VECTOR, INTEGER return STD_LOGIC_VECTOR] at $MODEL_TECH/../vhdl_src/synopsys/mti_std_logic_unsigned.vhd(43)
+# ** Error: C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd(48): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+# ** Error: C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd(74): Operator "+" is ambiguous.
+#    Feasible operators are:
+#       (explicit) STD_LOGIC_SIGNED."+"[STD_LOGIC_VECTOR, INTEGER return STD_LOGIC_VECTOR] at $MODEL_TECH/../vhdl_src/synopsys/mti_std_logic_signed.vhd(42)
+#       (explicit) STD_LOGIC_UNSIGNED."+"[STD_LOGIC_VECTOR, INTEGER return STD_LOGIC_VECTOR] at $MODEL_TECH/../vhdl_src/synopsys/mti_std_logic_unsigned.vhd(43)
+# ** Error: C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd(74): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+# ** Error: C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd(87): VHDL Compiler exiting
+# ** Error: c:/altera/12.1/modelsim_ase/win32aloem/vcom failed.
+# Error in macro ./DE1_D5M_run_msim_rtl_vhdl.do line 47
+# c:/altera/12.1/modelsim_ase/win32aloem/vcom failed.
+#     while executing
+# "vcom -93 -work work {C:/CPU2/project/DE1_CAMERA/DE1_CAMERA/V/GS_histogram.vhd}"
